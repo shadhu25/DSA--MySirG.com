@@ -1,0 +1,22 @@
+Variables
+    Variables names are the placeholders for representing data.
+
+Data Types
+    A data type in a programming language is a set of data with the values having predefined charecteristics.
+    System/Compiler defined data type are called primitive data type
+    Structure in C/C++ and classes in C++/Java are the means to create our own data type known as user defined data type.
+
+Data Structure is a particular way of storing and organizing data in a computer so that it can be used efficiently.
+
+Classification of DS
+    Linear Data Structure(Link list, Stack, Queue)
+    Non Linear Data Structure(Tree, Graph)
+
+Abstract Data Types
+    ALl primitive data types supports basic operations like addition, subtraction, etc.
+    The system is providing the types we implementation for the primitive data types.
+    For non primitive data types we also need to define operations.
+
+    Combination of data Structure and their operations are known as Abstract Data Type.
+    So, data structure is all about creating Abstract Data Types
+    Any piece of information can be handled by defining appropriate data type and set of operations.
