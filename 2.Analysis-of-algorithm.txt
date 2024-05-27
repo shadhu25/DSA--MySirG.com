@@ -1,0 +1,34 @@
+Algorithm
+    An algorithm is the step by step instruction to solve a given problem.
+    Example:-
+
+        sum(n): Algorithm to add first n natural numbers. Assume s is a variable initialized to 0.
+
+        1. If n<=0 return -1
+        2. Repeat step 3 and 4 while n!=0
+        3. s=s+n
+        4. [decrement n] n--
+        5. return s
+
+Analysis Of algorithm  
+    the goal of analysis of algorithms is to compare algorithm mainly in terms of running time but also in terms of other factors (like memory, efforts etc).
+
+Rate of growth
+    the rate of growth at which the running time increases as a function of input is called rate of growth.
+
+    f(n)= n^4 + 2n^2 + 100n +500
+
+    f(n)= n^4 for some n>n0
+
+Type of Analysis
+    To analyze the given algorithm we need to know on what inputs the algorithm is taking less time and on what inputs the algorithm is taking huge time.
+        Worst case 
+        Average case 
+        Best case
+
+Asimptotic Nottions
+    For all the three cases we need to identify the upper and lower bounds.
+    Syntax of representations of bounds are
+        Big-omega notation
+        Omega notation
+        Theta notation
