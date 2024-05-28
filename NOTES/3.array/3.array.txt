@@ -1,0 +1,15 @@
+Array
+    Arrays are the collection of a finite number of homogeneous data elements.
+
+    Elements of the array are referenced respectively by an index set consisting of n consecutive numbers and are stored respectively in successively memory locations.
+    The number n of elements is called the length or size of the array.
+    The array elements can be accessed in a constant time by using the index of the particular element.
+    To access an array element, address of an element is computed as offset from the base address of the array and one multiplication is needed to compute what is supposed to be added to the base address to get the memory address of the element.
+    The process takes one multiplication and one addition. sonce these two operations take constant time, we can say the array access can be performed in constant time.
+
+1D Array
+    A list of data items that can be represented by one variable name using only one subscript and such variable is called onw dimention array.
+
+1D Array 
+    A list of data items that can be conceptualize as rows and columns, which can be represented using one name and two subscripts.
+    
