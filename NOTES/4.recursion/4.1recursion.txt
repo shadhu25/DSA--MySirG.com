@@ -1,0 +1,44 @@
+Recursion
+    Any function which calls itself is called recursive.
+    A recursive method solves a problem by calling a copy of itself to work on a smaller problem.
+    It is important to ensure that the recursion terminates.
+    Each time the function call itself with a slightly simpler version of the original problem.
+
+Why Recursion 
+    Recursion code is generally shorter and easier to write than iterative code.
+    It terminates when a base case is reached.
+    Each recursive call requires extra space on the stack frame(i.e. Memory).
+    Solution to some problems are easier to formulate recursively.
+
+Function calling itself is called Recursion.
+
+Applications of Recursion
+    Fibonacci Series
+    Factorial of a number
+    Merge sort, quick sort
+    Binary search
+    Tree traversal
+    Graph traversal(DFS,BFS)
+    Dynamic Programming
+    Divide and conquer algorithm
+    Tower of Hanoi
+    Backtracking algorithm
+
+Backtrackibg
+    Backtracking is the method of exhausted search using dived and conquer.
+    Sometimes the best algorithm for a problem is to try all possibelities.
+    This is always slow.
+
+Recursion problems
+    In the subsequent lecture we will discuss following problems:
+        Tower of Hanoi
+        Fibonacci Series
+        Factorial
+        Greatest Common Divisor
+        Printing all permutation of given string
+        Generate all strings of n bits of binary digits.
+        Dedine power function, which could handle negative powers.
+        Write a recursive function to print entered
+        characters in reverse order(TNRN)
+        Write a recursive function to convert decimal to binary.
+        
